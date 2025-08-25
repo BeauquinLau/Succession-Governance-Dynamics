@@ -7,7 +7,7 @@ This repository contains the MATLAB source code for the numerical experiments pr
 The repository is organized into two main subdirectories. The code is structured to mirror the analyses in the paper.
 
 ```
-Simulation/
+Computational_Analysis/
 │
 ├── Figures_pdf/
 │   ├── S1.pdf, S1_d.pdf, S2.pdf, S2_d.pdf
