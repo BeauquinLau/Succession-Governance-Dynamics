@@ -1,0 +1,17 @@
+# MATLAB auto-generated files
+*.asv
+*.bak
+*.fig
+*.mex*
+*.p
+*.slx.autosave
+*.swo
+*.swp
+
+# MATLAB generated folders
+slprj/
+_Simulink_Cache_/
+
+# Operating System files
+.DS_Store
+Thumbs.db
