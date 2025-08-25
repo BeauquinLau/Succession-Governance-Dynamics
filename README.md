@@ -84,7 +84,7 @@ These scripts demonstrate how the system's tipping point (saddle point $E_5$) an
 -   **Location**: `MATLAB_code/Sensitivity_Analysis/Analysis_n/`
 
 -   **Saddle Point Drift (Figure 3):**
-    -   **Script**: `Dynamics_n.m` generates the diagrams showing the drift of the saddle point $E_5$ as `n` varies.
+    -   **Script**: `Dynamics_n_1.m` and `Dynamics_n_2.m` generate the diagrams showing the drift of the saddle point $E_5$ as `n` varies.
     -   **Outputs**: `Dynamics_n_1.pdf` (Fig. 3(a)) and `Dynamics_n_2.pdf` (Fig. 3(b)).
 
 -   **Convergence Trajectories (Figure 4):**
@@ -97,7 +97,7 @@ These scripts demonstrate how the system's tipping point (saddle point $E_5$) an
 -   **Location**: `MATLAB_code/Sensitivity_Analysis/Analysis_phi_NPM/`
 
 -   **Saddle Point Drift (Figure 5):**
-    -   **Script**: `Dynamics_phi_NPM.m` generates diagrams showing the drift of $E_5$ as `phi_NPM` varies.
+    -   **Script**: `Dynamics_phi_NPM_1.m` and `Dynamics_phi_NPM_2.m` generate diagrams showing the drift of $E_5$ as `phi_NPM` varies.
     -   **Outputs**: `Dynamics_phi_NPM_1.pdf` (Fig. 5(a)) and `Dynamics_phi_NPM_2.pdf` (Fig. 5(b)).
 
 -   **Convergence Trajectories (Figure 6):**
@@ -110,7 +110,7 @@ These scripts demonstrate how the system's tipping point (saddle point $E_5$) an
 -   **Location**: `MATLAB_code/Sensitivity_Analysis/Analysis_f_gamma/`
 
 -   **Saddle Point Drift (Figure 7):**
-    -   **Script**: `Dynamics_f_gamma.m` generates diagrams showing the drift of $E_5$ as `f_gamma` varies.
+    -   **Script**: `Dynamics_f_gamma_1.m` and `Dynamics_f_gamma_2.m` generate diagrams showing the drift of $E_5$ as `f_gamma` varies.
     -   **Outputs**: `Dynamics_f_gamma_1.pdf` (Fig. 7(a)) and `Dynamics_f_gamma_2.pdf` (Fig. 7(b)).
 
 -   **Convergence Trajectories (Figure 8):**
